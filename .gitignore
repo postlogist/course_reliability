@@ -1,7 +1,7 @@
 # me
 launch_notebook_here.bat
 hidden/
-./ipynb_checkpoints/
+*/.ipynb_checkpoints/
 
 #################
 ## Eclipse
